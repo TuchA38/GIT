@@ -7,3 +7,4 @@ int b;
 scanf("%d",&b);
 int wynik;
 wynik = a-b;
+printf("Wynik %d",&wynik);
