@@ -2,10 +2,11 @@
 
 int main(){
 int a, b, wynik;
-cin>>a;
-cin>>b;
+scanf("%d",&a);
+scanf("%d",&b);
 wynik = a*b;
-cout<<wynik<<endl;
+  
+printf("Wynik mnozenia= %d", &wynik);
 
 return 0;
 }
