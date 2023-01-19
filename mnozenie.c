@@ -5,7 +5,7 @@ int a, b, wynik;
 cin>>a;
 cin>>b;
 wynik = a*b;
-cout<<wynik;
+cout<<wynik<<endl;
 
 return 0;
 }
